@@ -1,52 +1,7 @@
-# ParkingLot
+# This is for Other Things
 
+* Don't forget fringilla, vel taciti massa nisl magna netus. Sapien arcu metus Cubilia tortor duis libero curae; amet penatibus dictumst urna etiam amet venenatis orci nisl bibendum neque netus integer ornare orci quis torquent vehicula, nascetur sit venenatis nibh lorem. Lectus elit.
 
-## Other Concepts
+* Erat consectetuer magna ullamcorper. Proin mus ultricies. Nam mi massa elit proin tincidunt congue aenean litora est. Lacus rhoncus. Et rhoncus enim placerat malesuada, elit felis adipiscing mollis id velit senectus etiam diam praesent Aliquet vitae eu.
 
-
-* Project Presentations 
-* Project Reviews
-* Issues and Milestones
-
-
-* Acknowledge, Assert and Attest
-* Agree, Allow and Accept  
-* Assent, Approve and Authorize
-
-* Scope of Work
-* Statement of Work
-* Enforceable Contract
-
-* Right and Responsibilities 
-* Roles and Relationships
-* Functions and Flows
-
-* Ownership and Governance
-* Control and Operation
-* Management and Decision Making
-
-* Complaint and Dispute
-* Mediation and Arbitration
-* Suspension and Termination
-
-* Project Repository
-* Project Site
-* Project Sandbox
-
-## Other Media Types
-
-## Exercices and Projects
-
-## Feedback and Input
-
-## Other Content
-
-* Legal 
-* Templates and Samples
-* Case Studies
-* Automation
-* Tools
-* Hackable Projects Gallery
-* Project Teams Gallery
-* Award Winners: The Hackies
-* Glossary
+* Tellus vehicula facilisis. Donec senectus, eros nascetur mauris lorem laoreet nostra lacinia leo proin etiam sociis massa enim urna ut malesuada.
